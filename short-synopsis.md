@@ -28,8 +28,8 @@ This list is _non-exhaustive_ but covers the most important parts. Please read t
 
 1. Project leadership will provide a clear **organization chart** specifying hierarchical relationships.
 2. **Treat everyone with respect and dignity**, including respecting race, ethnicity, and gender identity.
-3. Any **human subjects research **must be approved by an Office for Human Research Protections (OHRP) approved Institutional Review Board (IRB) in the US, or equivalent.
-4. Respect **local laws **(including **permitting requirements**), and **treat fairly** everyone helping with the research, including with **fair compensation **and** recognition **of their contributions. 
+3. Any **human subjects research** must be approved by an Office for Human Research Protections (OHRP) approved Institutional Review Board (IRB) in the US, or equivalent.
+4. Respect **local laws** (including **permitting requirements**), and **treat fairly** everyone helping with the research, including with **fair compensation** and **recognition** of their contributions. 
 5. Communicate about the project **openly and honestly**. 
 6. Sexual misconduct and sexual/gender-based harassment will be dealt with in a way that is **victim-directed**, focused on **offender behavior**, and ensures **fair process** for everyone involved. 
 7. **New relationships are prohibited** during the course of field work to avoid conflicts of interest. 
@@ -41,11 +41,11 @@ This list is _non-exhaustive_ but covers the most important parts. Please read t
 
 Because we are an inter-institutional group, there is not a single governing body to deal with concerns. We address this by **designating at least two Field Ethics Officers**, who are responsible for fielding reports of potential violations, and making sure everyone understands this Code. **Any suspected violations of this policy should be reported to one of the Field Ethics Officers.** Additionally, we have an **Ethics Partner Institution**, whose policies and code of conduct we all agree to be bound by, where this Code does not provide clear direction. Those are: 
 
+    Field Ethics Officers:_________________________________________________________________ 
+    _______________________________________________________________________________________
+    _______________________________________________________________________________________
 
-    Field Ethics Officers:_________________________________________________________________ _________________________________________________________________________________ _________________________________________________________________________________
-
-
-    Ethics Partner Institution: _____________________________________________________________
+    Ethics Partner Institution: ___________________________________________________________
 
 Any type of **retaliation for reporting**, or participating in an investigation, is strictly forbidden. 
 
