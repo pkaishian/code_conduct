@@ -1,5 +1,4 @@
-# code_of_conduct
-Code of Conduct for Inter-institutional Field Work
+# Code of Conduct for Inter-institutional Field Work
 
 Preamble
 
