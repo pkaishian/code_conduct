@@ -1,6 +1,6 @@
 # Code of Conduct for Inter-institutional Field Work
 
-Preamble
+
 
 What is this document? 
 
