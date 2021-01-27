@@ -24,7 +24,7 @@ One of the greatest challenges of inter-institutional field work is the potentia
 
 # **How can this document be used?**
 
-We offer this Code not as a prescriptive norm, but as a framework to be modified, built upon, and improved based on the needs of particular field research projects and their team members. We endeavored to write it in a way that is broadly applicable, so that it may serve as an effective tool to coalesce a shared understanding of ethical and appropriate conduct guiding a field research project. This is intended to be a living document that grows and evolves over time.
+**We offer this Code not as a prescriptive norm, but as a framework to be modified, built upon, and improved based on the needs of particular field research projects and their team members.** We endeavored to write it in a way that is broadly applicable, so that it may serve as an effective tool to coalesce a shared understanding of ethical and appropriate conduct guiding a field research project. This is intended to be a living document that grows and evolves over time.
 
 During the planning stages of any inter-institutional field work, the leadership of the project should carefully consider conduct and ethical issues, including issues related to interpersonal and cross-cultural interactions. What problems and misunderstandings might arise? How will they be dealt with, if they do? Most importantly, what expectations for respectful conduct are needed in order to minimize the possibility that these issues will arise in the first place? 
 
