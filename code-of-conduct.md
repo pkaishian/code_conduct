@@ -255,13 +255,13 @@ Any crew member making good faith reports under this Code of Conduct, or partici
     
     3. When appropriate, sanctions may include, but not be limited to: 
     
-      1. Official reprimand; 
-      2. Demotion in author lists and other forms of professional recognition for participation in the project;
-      3. Creation of channels of communication and collaboration that allow for professional isolation between victim and perpetrator; 
-      4. Orders of no contact between victim and perpetrator; 
-      5. Removal from project leadership position or other position of authority within the project; 
-      6. Removal from the project entirely;
-      7. Prohibition from future collaboration with other project participants, for durations up to and including life.
+        1. Official reprimand; 
+        2. Demotion in author lists and other forms of professional recognition for participation in the project;
+        3. Creation of channels of communication and collaboration that allow for professional isolation between victim and perpetrator; 
+        4. Orders of no contact between victim and perpetrator; 
+        5. Removal from project leadership position or other position of authority within the project; 
+        6. Removal from the project entirely;
+        7. Prohibition from future collaboration with other project participants, for durations up to and including life.
 
     4. Any crew member found to be responsible for attempted or completed sexual misconduct will have a comprehensive report of the incident sent to their home institution and supervisor, and all efforts will be made to ensure that this report is available to all relevant parties, including potential employers and transfer institutions. It will, however, be up to the home institution if additional disciplinary sanctions will be applied outside of the context of the project. 
 
