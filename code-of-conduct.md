@@ -207,7 +207,7 @@ Any crew member making good faith reports under this Code of Conduct, or partici
     _______________________________________________________________________________________
 
 
-1. _Reporting to Partner Organizations _
+1. _Reporting to Partner Organizations_
 
     Moreover, the Field Ethics Officers will be (1) familiar with reporting requirements that partner organizations (including those funding the field work) have established under their grants or other project agreements, for reporting potential or actual violations of conduct standards, and (2) will promptly report those issues as required by the partner organization(s). Additionally, the Field Ethics Officers will be responsible for taking direction from these organizations in the conduct of any investigation of potential inappropriate conduct in the context of the field research. 
 
