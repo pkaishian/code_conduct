@@ -250,8 +250,11 @@ Any crew member making good faith reports under this Code of Conduct, or partici
     We recognize that, as an inter-institutional group of researchers, our authority to impose academic and professional sanctions is limited. Given these circumstances, however, we will administer outcomes and sanctions resulting from conduct investigations such that:
 
     a. All sanctions and outcomes are administered in a manner that is fair and appropriate to the findings of the investigations;
+    
     b. Results of investigations where there is a finding of misconduct will be reported to the offender's funding entity, employer, and/or academic institution;
+    
     c. When appropriate, sanctions may include, but not be limited to: 
+    
       1. Official reprimand; 
       2. Demotion in author lists and other forms of professional recognition for participation in the project;
       3. Creation of channels of communication and collaboration that allow for professional isolation between victim and perpetrator; 
@@ -259,8 +262,11 @@ Any crew member making good faith reports under this Code of Conduct, or partici
       5. Removal from project leadership position or other position of authority within the project; 
       6. Removal from the project entirely;
       7. Prohibition from future collaboration with other project participants, for durations up to and including life.
+
     d. Any crew member found to be responsible for attempted or completed sexual misconduct will have a comprehensive report of the incident sent to their home institution and supervisor, and all efforts will be made to ensure that this report is available to all relevant parties, including potential employers and transfer institutions. It will, however, be up to the home institution if additional disciplinary sanctions will be applied outside of the context of the project. 
+
     e. Additionally, any recommendation or reference from the project leadership for participants found to be responsible for attempted or completed sexual misconduct will be accompanied by this report. 
+
     f. Where the sanctions and consequences imposed by the project leadership does not satisfy the victim, the project leadership will make every reasonable effort to help the victim seek outside recourse and locate a channel for their complaints with the ability to help find a path forward for the victim, including initiation of external investigation through the Ethics Partner Institution, outside mediation or arbitration, and/or the initiation of legal proceeding. 
 
 
