@@ -202,8 +202,9 @@ Any crew member making good faith reports under this Code of Conduct, or partici
 
     The Field Ethics Officers should, ideally, be (a) from different institutions, (b) working on different aspects of the project, (c) of different gender presentation. For large groups, it is also recommended that there be no less than one Field Ethics Officer for every twenty crew members, and, in cases where projects require subdivision, that there be at least one Field Ethics Officer in each distinct subgroup. We recognize that it is unlikely that any group of field researchers will be able to identify two members of the group which have _no_ overlap in spheres of influence, research communities, or circles of friendships. The suggestions above are to reduce bias by ensuring as little overlap as possible between the two (or more) Field Ethics Officers with respect to those with whom they have close relationships, either working or personal, and to ensure that as broad a cross-section of the field crew is comfortable approaching one of them as possible. Project leadership should endeavor to designate Field Ethics Officers that will allow for anyone experiencing an ethical issue, such as sexual misconduct, to go to a person unconnected with the perpetrator, and with whom they feel comfortable discussing the issue. 
 
-    Field Ethics Officers:_________________________________________________________________ 
-    <ins>       </ins>
+    `Field Ethics Officers:_________________________________________________________________` 
+    `_______________________________________________________________________________________`
+    `_______________________________________________________________________________________`
 
 1. _Reporting to Partner Organizations_
 
@@ -215,7 +216,7 @@ Any crew member making good faith reports under this Code of Conduct, or partici
 
     We do, however, recognize that the disciplinary policies of the Ethics Partner Institution will be difficult to apply in cases where group members belong to different institutions. We will work closely with all institutions involved to share findings from any investigations with relevant institutions, and ensure fair treatment of all, including appropriate consequences for offenders and protections for victims, regardless of their institutional homes.
 
-    Ethics Partner Institution: _________________________________________________________ 
+    `Ethics Partner Institution: _________________________________________________________`
 
 3. _Retaliation_
 
