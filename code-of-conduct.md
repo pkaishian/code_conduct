@@ -235,13 +235,13 @@ Any crew member making good faith reports under this Code of Conduct, or partici
 
     2. In most cases, the initial report from the Field Ethics Officers will likely trigger an **External Investigation** from the Ethics Partner Institution (or other partner institution), which will be undertaken in accordance with the policies and practices of that institution. Every effort will be made by the project leadership and Field Ethics Officers to maintain a victim-directed process, but the amount of control that the victim will have on the process will depend upon the policies of the investigating organization. The Field Ethics Officers will be responsible for coordinating with the external investigating organization, taking direction from them throughout the investigation process to ensure the success and objectivity of the investigation. In cases of external investigation, the Field Ethics Officers will ensure that there is a **victim’s advocate** who can advocate for the victim’s rights and desired outcomes.
 
-        Following from our core principles, any and all investigation procedures will strive to accomplish the following:
+    Following from our core principles, any and all investigation procedures will strive to accomplish the following:
 
-    * The victim is shepherded through the process by Field Ethics Officers and project leadership who understand the procedures and “next steps” at each phase of the process;
-    * The victim is given as much control over timing and how to proceed through the process as possible, consistent with the objectives of the Code to promptly address and end any misconduct and/or abuse;
-    * Victims are not re-traumatized — this includes ensuring that victims are not required to restate their story multiple times to multiple people; are not required to come face-to-face with the accused crew member; are not questioned directly by the accused crew member; and do not have their past sexual history considered by the Field Ethics Officer, project leadership, the authorities of the Ethics Partner Institution, etc.;
-    * The process is completed in a timely manner so that the victim does not have to “re-live” the trauma of the event for a prolonged period of time;
-    * The accused crew member may be removed or suspended during the course of investigation, either internal or external, if there is any evidence that the crew member is a continuing threat to the victim and/or other members of the crew;
+        * The victim is shepherded through the process by Field Ethics Officers and project leadership who understand the procedures and “next steps” at each phase of the process;
+        * The victim is given as much control over timing and how to proceed through the process as possible, consistent with the objectives of the Code to promptly address and end any misconduct and/or abuse;
+        * Victims are not re-traumatized — this includes ensuring that victims are not required to restate their story multiple times to multiple people; are not required to come face-to-face with the accused crew member; are not questioned directly by the accused crew member; and do not have their past sexual history considered by the Field Ethics Officer, project leadership, the authorities of the Ethics Partner Institution, etc.;
+        * The process is completed in a timely manner so that the victim does not have to “re-live” the trauma of the event for a prolonged period of time;
+        * The accused crew member may be removed or suspended during the course of investigation, either internal or external, if there is any evidence that the crew member is a continuing threat to the victim and/or other members of the crew;
     
 5. _Outcomes and Sanctions_ 
 
