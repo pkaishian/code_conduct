@@ -104,7 +104,7 @@ Following from our key principles, we will approach our research with ethics and
 Extra care must be taken with human subjects research. In such cases we will ensure that: 
 
 1. The right of those providing information to researchers either **to remain anonymous or to receive recognition** is to be respected and defended. It is our responsibility to make every effort to determine the preferences of those providing information and to comply with their wishes. It should be made clear to anyone providing information that despite our best intentions and efforts, anonymity may be compromised or recognition may fail to materialize. Additionally, we should strive never to reveal the identity of groups or persons whose anonymity is protected through the use of pseudonyms, either accidentally or purposefully.
-2. We are candid from the outset in the communities where we work about the nature of our research, our identities, and our goals. The** aims of our study project should be clearly and fully communicated to those among whom we work** at the onset of research. We must acknowledge the help and services we receive, and we must recognize our obligation to reciprocate in culturally appropriate ways. To the best of our abilities, we will make explicit the extent to which our own personal and cultural values affect the project. We have an obligation to assess both the positive and negative consequences of our field work. We will do our best to anticipate any possible consequences, and to inform individuals and groups likely to be affected. 
+2. We are candid from the outset in the communities where we work about the nature of our research, our identities, and our goals. The **aims of our study project should be clearly and fully communicated to those among whom we work** at the onset of research. We must acknowledge the help and services we receive, and we must recognize our obligation to reciprocate in culturally appropriate ways. To the best of our abilities, we will make explicit the extent to which our own personal and cultural values affect the project. We have an obligation to assess both the positive and negative consequences of our field work. We will do our best to anticipate any possible consequences, and to inform individuals and groups likely to be affected. 
 
 
 ### Diversity & Respect
@@ -249,11 +249,11 @@ Any crew member making good faith reports under this Code of Conduct, or partici
 
     We recognize that, as an inter-institutional group of researchers, our authority to impose academic and professional sanctions is limited. Given these circumstances, however, we will administer outcomes and sanctions resulting from conduct investigations such that:
 
-    a. All sanctions and outcomes are administered in a manner that is fair and appropriate to the findings of the investigations;
+    1. All sanctions and outcomes are administered in a manner that is fair and appropriate to the findings of the investigations;
     
-    b. Results of investigations where there is a finding of misconduct will be reported to the offender's funding entity, employer, and/or academic institution;
+    2. Results of investigations where there is a finding of misconduct will be reported to the offender's funding entity, employer, and/or academic institution;
     
-    c. When appropriate, sanctions may include, but not be limited to: 
+    3. When appropriate, sanctions may include, but not be limited to: 
     
       1. Official reprimand; 
       2. Demotion in author lists and other forms of professional recognition for participation in the project;
@@ -263,11 +263,11 @@ Any crew member making good faith reports under this Code of Conduct, or partici
       6. Removal from the project entirely;
       7. Prohibition from future collaboration with other project participants, for durations up to and including life.
 
-    d. Any crew member found to be responsible for attempted or completed sexual misconduct will have a comprehensive report of the incident sent to their home institution and supervisor, and all efforts will be made to ensure that this report is available to all relevant parties, including potential employers and transfer institutions. It will, however, be up to the home institution if additional disciplinary sanctions will be applied outside of the context of the project. 
+    4. Any crew member found to be responsible for attempted or completed sexual misconduct will have a comprehensive report of the incident sent to their home institution and supervisor, and all efforts will be made to ensure that this report is available to all relevant parties, including potential employers and transfer institutions. It will, however, be up to the home institution if additional disciplinary sanctions will be applied outside of the context of the project. 
 
-    e. Additionally, any recommendation or reference from the project leadership for participants found to be responsible for attempted or completed sexual misconduct will be accompanied by this report. 
+    5. Additionally, any recommendation or reference from the project leadership for participants found to be responsible for attempted or completed sexual misconduct will be accompanied by this report. 
 
-    f. Where the sanctions and consequences imposed by the project leadership does not satisfy the victim, the project leadership will make every reasonable effort to help the victim seek outside recourse and locate a channel for their complaints with the ability to help find a path forward for the victim, including initiation of external investigation through the Ethics Partner Institution, outside mediation or arbitration, and/or the initiation of legal proceeding. 
+    6. Where the sanctions and consequences imposed by the project leadership does not satisfy the victim, the project leadership will make every reasonable effort to help the victim seek outside recourse and locate a channel for their complaints with the ability to help find a path forward for the victim, including initiation of external investigation through the Ethics Partner Institution, outside mediation or arbitration, and/or the initiation of legal proceeding. 
 
 
 ## Footnotes
