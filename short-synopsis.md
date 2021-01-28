@@ -1,9 +1,9 @@
 # **Code of Conduct: _Short Synopsis_**
 
-_This Short Synopsis is intended to summarize the Code of Conduct for easy reference and understanding; it is not intended to replace the full Code. Words in **bold** in this Synopsis are specific references to items and ideas that are dealt with in detail in the full Code._ 
+_This Short Synopsis is intended to summarize the [Code of Conduct](https://github.com/pkaishian/code_conduct/blob/main/code-of-conduct.md) for easy reference and understanding; it is not intended to replace the full Code. Words in **bold** in this Synopsis are specific references to items and ideas that are dealt with in detail in the full Code._ 
 
 
-### Key Principles 
+### [Key Principles](https://github.com/pkaishian/code_conduct/blob/main/code-of-conduct.md#key-principles)
 
 This Code is precedent upon three key principles, from which all else follows. These are:
 
@@ -12,19 +12,19 @@ This Code is precedent upon three key principles, from which all else follows. T
 3. **Inclusion:** we are professionals, so we value and promote diversity and inclusion.
 
 
-### Commitments & Challenges
+### [Commitments & Challenges](https://github.com/pkaishian/code_conduct/blob/main/code-of-conduct.md#commitments)
 
 We are committed to **represent the project professionally** at all times, to **act with integrity**, to **respect everyone** we come into contact with, and to **wholeheartedly accept the full diversity of the group**, while **rejecting discrimination, harassment, bigotry**, and any other conduct contrary to our key principles. Field work challenges include **remote, physically and mentally taxing conditions**, the potentially constant and **close proximity to our crewmates**, the fluid and sometimes nonexistent **boundaries between work and personal life**, the potential **lack of any personal space**, and the **previous histories we each bring** to the research endeavor. By honoring our commitments as a team, we can more effectively overcome these challenges. 
 
 
-### Prohibited Conduct
+### [Prohibited Conduct](https://github.com/pkaishian/code_conduct/blob/main/code-of-conduct.md#prohibited-conduct)
 
 We will not tolerate **any form of harassment** (see _Definitions_ section), **coercion, threatening, abusive or disrespectful behavior,** or **sexual misconduct**. There will be **no alcohol or other drug use permitted** while conducting field work, even when legally permissible. Additionally, it is prohibited to **obstruct or disrupt research and living conditions**, to **possess or use a gun** or other weapon (unless expressly permitted), to **physically or verbally abuse another person**, to **damage or steal property**, or to **incite others to do any of these things**. 
 
 
 ### Important Policies
 
-This list is _non-exhaustive_ but covers the most important parts. Please read the full Code.
+This list is _non-exhaustive_ but covers the most important parts. Please read the full [Code](https://github.com/pkaishian/code_conduct/blob/main/code-of-conduct.md).
 
 1. Project leadership will provide a clear **organization chart** specifying hierarchical relationships.
 2. **Treat everyone with respect and dignity**, including respecting race, ethnicity, and gender identity.
@@ -37,7 +37,7 @@ This list is _non-exhaustive_ but covers the most important parts. Please read t
 9. If a violation is reported, **only the person with authority/power** is subject to punishment to protect victims in coercive relationships.
 
 
-### Reporting Violations 
+### [Reporting Violations](https://github.com/pkaishian/code_conduct/blob/main/code-of-conduct.md#reporting-potential-violations--addressing-concerns)
 
 Because we are an inter-institutional group, there is not a single governing body to deal with concerns. We address this by **designating at least two Field Ethics Officers**, who are responsible for fielding reports of potential violations, and making sure everyone understands this Code. **Any suspected violations of this policy should be reported to one of the Field Ethics Officers.** Additionally, we have an **Ethics Partner Institution**, whose policies and code of conduct we all agree to be bound by, where this Code does not provide clear direction. Those are: 
 
@@ -50,7 +50,7 @@ Because we are an inter-institutional group, there is not a single governing bod
 Any type of **retaliation for reporting**, or participating in an investigation, is strictly forbidden. 
 
 
-### Reporting to Partner Organizations 
+### Reporting to Partner Organizations
 
 The Field Ethics Officers will be familiar with **funding and other partner organizations’ reporting requirements** for potential or actual violations of conduct standards, and will promptly report such violations as required. The Field Ethics Officers will be responsible for taking direction from these organizations in the event of an outside investigation. 
 
