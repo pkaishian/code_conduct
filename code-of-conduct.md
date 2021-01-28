@@ -237,11 +237,11 @@ Any crew member making good faith reports under this Code of Conduct, or partici
 
     Following from our core principles, any and all investigation procedures will strive to accomplish the following:
 
-        * The victim is shepherded through the process by Field Ethics Officers and project leadership who understand the procedures and “next steps” at each phase of the process;
-        * The victim is given as much control over timing and how to proceed through the process as possible, consistent with the objectives of the Code to promptly address and end any misconduct and/or abuse;
-        * Victims are not re-traumatized — this includes ensuring that victims are not required to restate their story multiple times to multiple people; are not required to come face-to-face with the accused crew member; are not questioned directly by the accused crew member; and do not have their past sexual history considered by the Field Ethics Officer, project leadership, the authorities of the Ethics Partner Institution, etc.;
-        * The process is completed in a timely manner so that the victim does not have to “re-live” the trauma of the event for a prolonged period of time;
-        * The accused crew member may be removed or suspended during the course of investigation, either internal or external, if there is any evidence that the crew member is a continuing threat to the victim and/or other members of the crew;
+      * The victim is shepherded through the process by Field Ethics Officers and project leadership who understand the procedures and “next steps” at each phase of the process;
+      * The victim is given as much control over timing and how to proceed through the process as possible, consistent with the objectives of the Code to promptly address and end any misconduct and/or abuse;
+      * Victims are not re-traumatized — this includes ensuring that victims are not required to restate their story multiple times to multiple people; are not required to come face-to-face with the accused crew member; are not questioned directly by the accused crew member; and do not have their past sexual history considered by the Field Ethics Officer, project leadership, the authorities of the Ethics Partner Institution, etc.;
+      * The process is completed in a timely manner so that the victim does not have to “re-live” the trauma of the event for a prolonged period of time;
+      * The accused crew member may be removed or suspended during the course of investigation, either internal or external, if there is any evidence that the crew member is a continuing threat to the victim and/or other members of the crew;
     
 5. _Outcomes and Sanctions_ 
 
@@ -252,13 +252,13 @@ Any crew member making good faith reports under this Code of Conduct, or partici
     a. All sanctions and outcomes are administered in a manner that is fair and appropriate to the findings of the investigations;
     b. Results of investigations where there is a finding of misconduct will be reported to the offender's funding entity, employer, and/or academic institution;
     c. When appropriate, sanctions may include, but not be limited to: 
-        1. Official reprimand; 
-        2. Demotion in author lists and other forms of professional recognition for participation in the project;
-        3. Creation of channels of communication and collaboration that allow for professional isolation between victim and perpetrator; 
-        4. Orders of no contact between victim and perpetrator; 
-        5. Removal from project leadership position or other position of authority within the project; 
-        6. Removal from the project entirely;
-        7. Prohibition from future collaboration with other project participants, for durations up to and including life.
+      1. Official reprimand; 
+      2. Demotion in author lists and other forms of professional recognition for participation in the project;
+      3. Creation of channels of communication and collaboration that allow for professional isolation between victim and perpetrator; 
+      4. Orders of no contact between victim and perpetrator; 
+      5. Removal from project leadership position or other position of authority within the project; 
+      6. Removal from the project entirely;
+      7. Prohibition from future collaboration with other project participants, for durations up to and including life.
     d. Any crew member found to be responsible for attempted or completed sexual misconduct will have a comprehensive report of the incident sent to their home institution and supervisor, and all efforts will be made to ensure that this report is available to all relevant parties, including potential employers and transfer institutions. It will, however, be up to the home institution if additional disciplinary sanctions will be applied outside of the context of the project. 
     e. Additionally, any recommendation or reference from the project leadership for participants found to be responsible for attempted or completed sexual misconduct will be accompanied by this report. 
     f. Where the sanctions and consequences imposed by the project leadership does not satisfy the victim, the project leadership will make every reasonable effort to help the victim seek outside recourse and locate a channel for their complaints with the ability to help find a path forward for the victim, including initiation of external investigation through the Ethics Partner Institution, outside mediation or arbitration, and/or the initiation of legal proceeding. 
