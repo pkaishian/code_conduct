@@ -124,16 +124,16 @@ The history of colonialism and imperialism is still ongoing, and shapes the cont
 
 **It is therefore imperative that we reflect critically on the potentially racist practices of our research group**, in order to create safer spaces. We strongly recommend that before any project is initiated, all Principal Investigators refer to Chaudhary and Berhe’s “Ten simple rules for building an anti-racist lab” (2020). We summarize the ten rules here, but encourage everyone involved in the project to read the original publication thoroughly.
 
-1. Lead informed discussions about anti-racism in the lab regularly;
-2. Address racism in the lab and field safety guidelines;
-3. Publish papers and write grants with Black, Indigenous, or Latinx colleagues;
-4. Evaluate the lab’s mentoring practices;
-5. Amplify voices of Black, Indigenous, or Latinx scientists;
-6. Support Black, Indigenous, or Latinx people in their efforts to organize;
-7. Intentionally recruit Black, Indigenous, or Latinx students and staff;
-8. Adopt a dynamic research agenda;
-9. Advocate for racially diverse leadership in science; and
-10. Hold the powerful accountable and don’t expect gratitude for doing what is rational.
+  1. Lead informed discussions about anti-racism in the lab regularly;
+  2. Address racism in the lab and field safety guidelines;
+  3. Publish papers and write grants with Black, Indigenous, or Latinx colleagues;
+  4. Evaluate the lab’s mentoring practices;
+  5. Amplify voices of Black, Indigenous, or Latinx scientists;
+  6. Support Black, Indigenous, or Latinx people in their efforts to organize;
+  7. Intentionally recruit Black, Indigenous, or Latinx students and staff;
+  8. Adopt a dynamic research agenda;
+  9. Advocate for racially diverse leadership in science; and
+  10. Hold the powerful accountable and don’t expect gratitude for doing what is rational.
 
 Based on these ten rules, we provide the following guiding principles and policies:
 
@@ -151,9 +151,9 @@ In addition to a history of racial inequalities, science has a long history of g
 2. **Names & Pronouns.** Every crew member has the right to be addressed by the name and pronoun that corresponds with their gender identity. A court-ordered name or gender change is _not_ required. The intentional or persistent refusal to respect any crew member’s gender identity (for example, intentionally referring to someone by a name or pronoun that does not correspond to that person’s gender identity) can constitute harassment and is a violation of this Code. If uncertain as to what pronoun a transitioning or gender non-conforming crew member might prefer, politely ask them how they would like to be addressed. We recommend cultivating gender-neutral language (e.g., singular _you_ or _they_), using a person’s name in place of pronouns if one is unsure, and practicing regularly with pronouns that are difficult to remember. These practices work towards avoiding mistakes and encourage respect between all group members.
 3. **Sex-segregated Facilities & Activities.** For sex-segregated tasks and the use of sex-segregated facilities, transgender crew members will be classified and assigned in a manner **consistent with their gender identity**, not their sex assigned at birth. 
 
-Crew members shall have access to the restroom corresponding to their gender identity. Any crew member who has a need or desire for increased privacy, regardless of the underlying reason, will be provided access to a single-stall restroom, when available; no crew member, however, shall be required to use such a restroom. All crew members have a right to safe and appropriate restroom facilities, including the right to use a restroom that corresponds to the crew member’s gender identity, regardless of the crew member’s sex assigned at birth. That is, transgender women must be permitted to use the women’s restroom, and transgender men must be permitted to use the men’s restroom. 
+    Crew members shall have access to the restroom corresponding to their gender identity. Any crew member who has a need or desire for increased privacy, regardless of the underlying reason, will be provided access to a single-stall restroom, when available; no crew member, however, shall be required to use such a restroom. All crew members have a right to safe and appropriate restroom facilities, including the right to use a restroom that corresponds to the crew member’s gender identity, regardless of the crew member’s sex assigned at birth. That is, transgender women must be permitted to use the women’s restroom, and transgender men must be permitted to use the men’s restroom. 
 
-The decision of how to sort into sex-segregated spaces and activities should be left to the transgender or gender non-conforming crew member to determine the most appropriate and safest option for them. Their decision will be respected by both the project leadership and the entire crew. 
+    The decision of how to sort into sex-segregated spaces and activities should be left to the transgender or gender non-conforming crew member to determine the most appropriate and safest option for them. Their decision will be respected by both the project leadership and the entire crew. 
 
 
 ### Sexual Misconduct & Sexual/Gender-based Harassment
