@@ -1,4 +1,4 @@
-## **Code of Conduct: _Short Synopsis_**
+# **Code of Conduct: _Short Synopsis_**
 
 _This Short Synopsis is intended to summarize the Code of Conduct for easy reference and understanding; it is not intended to replace the full Code. Words in **bold** in this Synopsis are specific references to items and ideas that are dealt with in detail in the full Code._ 
 
