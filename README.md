@@ -59,10 +59,6 @@ We would also like to acknowledge contributions and feedback on an earlier draft
 Paulette Goyes, Jessica Grant, Patricia Kaishian*, Tobias Policha, Daniel C. Thomas, & Roo Vandegrift (2020). **Code of Conduct for Inter-Institutional Field Work** (Version vX.X.X). _[Platforrm]_. [http://doi.org/10.XXXX/XXXXXXX](http://doi.org/10.XXXX/XXXXXXX)
 * Corresponding author: pkaishian@gmail.com
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
