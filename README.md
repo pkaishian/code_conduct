@@ -56,7 +56,7 @@ This document was prepared by a group of researchers who, while engaged in inter
 
 We would also like to acknowledge contributions and feedback on an earlier draft of this Code by Jeffery Williams, Sandra Elvin, Geromy Moore, and Oblio Stroyman, whose contributions were essential to the creation of this document. We have released this document as open-access, under the [CC-BY-SA-4.0](https://choosealicense.com/licenses/cc-by-4.0/), which means that anyone can download it and use it as they see fit. Any republished and altered version of this document should cite the original release so that others may find and access it. Please release any new versions under the same terms. Please cite this Code of Conduct as: 
 
-Paulette Goyes, Jessica Grant, Patricia Kaishian*, Tobias Policha, Daniel C. Thomas, & Roo Vandegrift (2020). **Code of Conduct for Inter-Institutional Field Work** (Version vX.X.X). _[Platforrm]_. [http://doi.org/10.XXXX/XXXXXXX](http://doi.org/10.XXXX/XXXXXXX)
+Paulette Goyes, Jessica Grant, Patricia Kaishian*, Tobias Policha, Daniel C. Thomas, & Roo Vandegrift (2020). **Code of Conduct for Inter-Institutional Field Work** (Version vX.X.X). _[Github](https://github.com/pkaishian/code_conduct). [https://doi.org/10.5281/zenodo.4480336](https://doi.org/10.5281/zenodo.4480336)
 * Corresponding author: pkaishian@gmail.com
 
 
